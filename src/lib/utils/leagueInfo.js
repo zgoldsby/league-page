@@ -165,92 +165,92 @@ export const managers = [
   
     {
       "roster": 7,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Test 7",
+      "name": "Nick R",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Fairfax", // (optional)
+      "location": "Rehobeth Beach", // (optional)
       "bio": "Lorem ipsum...",
       "photo": "/managers/Arthur fist avatar.png", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 2006, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "was", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
+      "favoriteTeam": "car", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
-        name: "Blake", // Can be anything (usually your rival's name)
-        link: 3, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/cat avatar.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        name: "Dan", // Can be anything (usually your rival's name)
+        link: 1, // manager array number within this array, or null to link back to all managers page
+        image: "/managers/Spurrier avatar.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 5927, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-      "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "favoritePlayer": 4984, // Josh Allen (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "If you build it, points will come",
+      "philosophy": "Draft those sleeper quarterbacks",
       "tradingScale": 6, // 1 - 10
-      "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+      "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
   
     {
       "roster": 8,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Test 8",
+      "name": "Eric",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Fairfax", // (optional)
+      "location": "Atlanta", // (optional)
       "bio": "Lorem ipsum...",
-      "photo": "/managers/Arthur fist avatar.png", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 2006, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "was", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-      "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
+      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
+      "favoriteTeam": "nyg", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
-        name: "Blake", // Can be anything (usually your rival's name)
-        link: 3, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/cat avatar.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        name: "Caleb", // Can be anything (usually your rival's name)
+        link: 10, // manager array number within this array, or null to link back to all managers page
+        image: "/managers/name.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 5927, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-      "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "favoritePlayer": 3321, // Tyreek Hill (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "If you build it, points will come",
+      "philosophy": "",
       "tradingScale": 6, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
   
     {
       "roster": 9,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Test 9",
+      "name": "Nick C",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Fairfax", // (optional)
+      "location": "Dayton", // (optional)
       "bio": "Lorem ipsum...",
-      "photo": "/managers/Arthur fist avatar.png", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 2006, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "was", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "photo": "/managers/Dan drunk tank top avatar.png", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
+      "favoriteTeam": "car", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
-        name: "Blake", // Can be anything (usually your rival's name)
-        link: 3, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/cat avatar.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        name: "Aaron", // Can be anything (usually your rival's name)
+        link: 4, // manager array number within this array, or null to link back to all managers page
+        image: "/managers/Bool-Aid avatar.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 5927, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
-      "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
+      "favoritePlayer": 4034, // Christian McCaffrey (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "If you build it, points will come",
+      "philosophy": "One of these years my RBs will stay healthy",
       "tradingScale": 6, // 1 - 10
-      "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
+      "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
   
     {
       "roster": 10,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Test 10",
+      "name": "Caleb",
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Fairfax", // (optional)
+      "location": "New York", // (optional)
       "bio": "Lorem ipsum...",
-      "photo": "/managers/Arthur fist avatar.png", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 2006, // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "was", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-      "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
+      "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
+      "fantasyStart": null, // (optional) when did the manager start playing fantasy football
+      "favoriteTeam": "bal", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "mode": "Rebuild", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
-        name: "Blake", // Can be anything (usually your rival's name)
-        link: 3, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/cat avatar.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        name: "Eric", // Can be anything (usually your rival's name)
+        link: 8, // manager array number within this array, or null to link back to all managers page
+        image: "/managers/name.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
-      "favoritePlayer": 5927, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
+      "favoritePlayer": 6994, // Lamar Jackson (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "If you build it, points will come",
+      "philosophy": "Who needs running backs anyways?",
       "tradingScale": 6, // 1 - 10
       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
