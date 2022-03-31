@@ -99,11 +99,10 @@
     }
 </style>
 
-<div class = "testLink">
-	<a href="https://www.w3schools.com/html/html_links.asp">W3 schools HTML Links</a>
-</div>
-	
 <div class="constitution">
+	
+	<a href="https://docs.google.com/document/d/1nAr2_IggAteGZXZUCjfLiBTHT5VromUAWiytls8cIKw/edit">LEAGUE RULES</a>	
+	
     <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION</h1>
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
