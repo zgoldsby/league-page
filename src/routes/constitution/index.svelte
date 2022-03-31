@@ -99,16 +99,10 @@
     }
 </style>
 
-<Router path="/example">
-  | <Link exact href="/example/a">Link</Link> | <Link exact href="/example/a/b">Broken link</Link>
-
-  <p data-test="example">
-    <Route exact>Hello World</Route>
-    <Route fallback>Not found</Route>
-    <Route exact path="/:name" let:router>Hello {router.params.name}</Route>
-  </p>
-</Router>
-
+<div class = "testLink">
+	<a href="https://www.w3schools.com/html/html_links.asp">W3 schools HTML Links</a>
+</div>
+	
 <div class="constitution">
     <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION</h1>
     
