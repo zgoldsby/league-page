@@ -101,7 +101,7 @@
 
 <div class="constitution">
 	
-	<a href="https://docs.google.com/document/d/1nAr2_IggAteGZXZUCjfLiBTHT5VromUAWiytls8cIKw/edit">LEAGUE RULES</a>	
+	<a href="https://docs.google.com/document/d/1nAr2_IggAteGZXZUCjfLiBTHT5VromUAWiytls8cIKw/edit" target="_blank">LEAGUE RULES</a>	
 	
     <h1 class="noUnderscore">LEGENDS LEAGUE CONSTITUTION</h1>
     
