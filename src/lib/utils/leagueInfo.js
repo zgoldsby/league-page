@@ -7,12 +7,15 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Welcome to the bUSCh League, the dynasty fantasy football league of ten South Carolina Gamecocks. 🤙 </p>
+  <p>Started in 2018, the bUSCh League (BL) has crowned four different champions in four years. </p>
+  <p>2018: Blake</p>
+  <p>2019: Liam©</p>
+  <p>2020: Dan</p>
+  <p>2021: Dalton 🏆</p>
+  <p>In a true Cinderella story, Dalton proved that all you have to do is make the playoffs and anything can happen. After falling to 4-5 at the hands of a Justin Fields comeback, Dalton won eight (8) straight with clutch performances from Cooper Kupp, Deebo Samuel, and ARSB. It wasn't just Dalton's rising drafted stars that put this team over the top. In a critical trade at the deadline, Dalton sent out Miles Gaskin and received Leonard Fournette, just before Lenny went on a heater and Gaskin's production declined. When the playoffs arrived, the season long favorites of Dan and Nick R were no match for the scorching hot Bums. Put a new name on that trophy!</p>
+  <p>Who's your pick to take home the 2022 championship trophy? Check out the Rosters page to see the full squads!</p>
+  <p>Who has the best one game performance all time? Check out the Records page for historical results!</p>
 `;
 
 /*   STEP 3   */
