@@ -8,6 +8,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
 
+  .imageHeader {
+    text-align: center
+  }
+
   .center {
     display: block;
     margin-left: auto;
@@ -26,7 +30,7 @@ export const homepageText = `
   <p>Who has the best one game performance all time? Check out the Records page for historical results!</p>
   
   <img src="Boone/group shot.jpg" alt="Boone 2021" width="1000" height="600">
-  <p><strong>Boone, NC | August, 2021</strong> class="center" </p>
+  <p>Boone, NC | August, 2021 class="imageHeader"</p>
   
 `;
 
