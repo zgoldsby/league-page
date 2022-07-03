@@ -16,6 +16,55 @@ export const homepageText = `
   <p>In a true Cinderella story, Dalton proved that all you have to do is make the playoffs and anything can happen. After falling to 4-5 at the hands of a Justin Fields comeback, Dalton won eight (8) straight with clutch performances from Cooper Kupp, Deebo Samuel, and ARSB. It wasn't just Dalton's rising drafted stars that put this team over the top. In a critical trade at the deadline, Dalton sent out Miles Gaskin and received Leonard Fournette, just before Lenny went on a heater and Gaskin's production declined. When the playoffs arrived, the season long favorites of Dan and Nick R were no match for the scorching hot Bums. Put a new name on that trophy!</p>
   <p>Who's your pick to take home the 2022 championship trophy? Check out the Rosters page to see the full squads!</p>
   <p>Who has the best one game performance all time? Check out the Records page for historical results!</p>
+  
+  
+  <table border="5" bordercolor="red" align="center">
+        <tr>
+            <th colspan="3">SONAKSHI RAINA 10B ROLL No:-32</th> 
+        </tr>
+        <tr>
+            <th>Name</th>
+            <th>Origin</th>
+            <th>Photo</th>
+        </tr>
+        <tr>
+            <td>Bugatti Veyron Super Sport</td>
+            <td>Molsheim, Alsace, France</td>
+                    <!-- considering it is on the same folder that .html file -->
+            <td><img src="H.gif" alt="" border=3 height=100 width=100></img></td>
+        </tr>
+        <tr>
+            <td>SSC Ultimate Aero TT  TopSpeed</td>
+            <td>United States</td>
+            <td border=3 height=100 width=100>Photo1</td>
+        </tr>
+        <tr>
+            <td>Koenigsegg CCX</td>
+            <td>Ängelholm, Sweden</td>
+            <td border=4 height=100 width=300>Photo1</td>
+        </tr>
+        <tr>
+            <td>Saleen S7</td>
+            <td>Irvine, California, United States</td>
+            <td border=3 height=100 width=100>Photo1</td>
+        </tr>
+        <tr>
+            <td> McLaren F1</td>
+            <td>Surrey, England</td>
+            <td border=3 height=100 width=100>Photo1</td>
+        </tr>
+        <tr>
+            <td>Ferrari Enzo</td>
+            <td>Maranello, Italy</td>
+            <td border=3 height=100 width=100>Photo1</td>
+        </tr>
+        <tr>
+            <td> Pagani Zonda F Clubsport</td>
+            <td>Modena, Italy</td>
+            <td border=3 height=100 width=100>Photo1</td>
+        </tr>
+    </table>
+  
 `;
 
 /*   STEP 3   */
