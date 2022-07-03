@@ -108,7 +108,7 @@
 	<a href="https://docs.google.com/document/d/1nAr2_IggAteGZXZUCjfLiBTHT5VromUAWiytls8cIKw/edit" target="_blank">LEAGUE RULES</a>	
 	
     <a href="https://docs.google.com/document/d/1nAr2_IggAteGZXZUCjfLiBTHT5VromUAWiytls8cIKw/edit" target="_blank">
-  <img src="/static/Google_Docs_logo_(2014-2020).svg.png" alt="LEAGUE RULES" style="width:75px height:75px;">
+  <img src="league-page/static/Google_Docs_logo_(2014-2020).svg.png" alt="LEAGUE RULES" style="width:75px height:75px;">
 </a>
 
 </div>
