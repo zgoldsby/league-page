@@ -17,7 +17,7 @@ export const homepageText = `
   <p>Who's your pick to take home the 2022 championship trophy? Check out the Rosters page to see the full squads!</p>
   <p>Who has the best one game performance all time? Check out the Records page for historical results!</p>
   
-  <img src="Boone/group shot.jpg" alt="Boone 2021" width="500" height="600">
+  <img src="Boone/group shot.jpg" alt="Boone 2021" width="1000" height="600">
   <p><strong>Boone, NC | August, 2021</strong></p>
   
 `;
