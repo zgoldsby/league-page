@@ -8,17 +8,6 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
 
-  .imageHeader {
-    text-align: center
-  }
-
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-
   <p>Welcome to the bUSCh League, the dynasty fantasy football league of ten South Carolina Gamecocks. 🤙 </p>
   <p>Started in 2018, the bUSCh League (BL) has crowned four different champions in four years. </p>
   <p>2018: Blake</p>
